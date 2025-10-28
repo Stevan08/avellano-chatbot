@@ -11,4 +11,3 @@ services:
         sync: false
       - key: PHONE_NUMBER_ID
         sync: false
-    port: 3000
